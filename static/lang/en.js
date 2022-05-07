@@ -110,6 +110,7 @@ module.exports = {
         dao_16:'Daily rate',
         dao_17:'Current income',
         dao_18:'Unproductive income',
+        dao_26:'Jackpot',
 
         dao_19:'Quick',
         dao_20:'Transfer',
